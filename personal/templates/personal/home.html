@@ -1,0 +1,42 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% load static %}
+
+<style type="text/css">
+	.main-wrapper{
+		height: calc(100vh - 150px);
+	}
+</style>
+
+<div class="container main-wrapper">
+
+	<!-- MEDIUM+ SCREENS -->
+	<div class="main mt-2 d-none d-md-flex flex-column">
+		<div class="gif-container d-md-flex flex-row ">
+			<img  width="50%" height="480"  class="giphy-embed" src={% static 'logo/phone_chat.gif' %} />
+			<img  width="50%" height="480"  class="giphy-embed" src={% static 'logo/talking_birds.gif' %} />
+		</div>
+		<div class="card">
+			<div class="card-body">
+			  <h5 class="card-title text-secondary">Talkative</h5>
+			  <p class="card-text">
+				A nearby chat app to communicate with your peers.
+			  </p>
+			  <a href="/chat" class="btn btn-primary">Chat</a>
+			</div>
+		  </div>
+
+	</div>
+	
+</div>
+
+
+{% endblock content %}
+
+
+
+
+
