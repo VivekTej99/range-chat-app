@@ -4,7 +4,11 @@
 
 ---
 
-![Home page](./ouputs/home.mov "movie")
+![Home page](./ouputs/home.png "Home")
+![Login page](./ouputs/login.png "Login")
+![Signup page](./ouputs/signup.png "Signup")
+![Profile page](./ouputs/profile.png "Profile")
+![Chat page](./ouputs/chat.png "Chat")
 
 ---
 
