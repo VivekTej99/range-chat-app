@@ -4,11 +4,11 @@
 
 ---
 
-![Home page](./ouputs/home.png "Home")
-![Login page](./ouputs/login.png "Login")
-![Signup page](./ouputs/signup.png "Signup")
-![Profile page](./ouputs/profile.png "Profile")
-![Chat page](./ouputs/chat.png "Chat")
+![Home page](./outputs/home.png "Home")
+![Login page](./outputs/login.png "Login")
+![Signup page](./outputs/signup.png "Signup")
+![Profile page](./outputs/profile.png "Profile")
+![Chat page](./outputs/chat.png "Chat")
 
 ---
 
